@@ -1,3 +1,6 @@
 [submodule "modules/fangz"]
 	path = modules/fangz
 	url = https://github.com/jassielof/fangz
+[submodule "modules/vereda"]
+	path = modules/vereda
+	url = https://github.com/jassielof/vereda
